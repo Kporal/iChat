@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iChat</string>
+
+    <!-- DRAW -->
+    <string name="button_activity_draw">Draw</string>
+    <string name="title_activity_draw">Draw circles!</string>
+
+    <!-- ERROR MESSAGE -->
+    <string name="error_field_required">This field is required</string>
+    <string name="error_field_invalid">This field is invalid</string>
+
+</resources>

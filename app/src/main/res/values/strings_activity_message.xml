@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Strings related to message -->
+    <string name="title_activity_message">iChat - Messenger</string>
+
+    <string name="prompt_messages">Welcome to the chat room:</string>
+    <string name="prompt_new_message">Your message here...</string>
+
+    <string name="toast_message_failed">A problem has occurred!</string>
+
+    <string name="action_send">Send</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_quit">Quit</string>
+</resources>

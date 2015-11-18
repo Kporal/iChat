@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iChat</string>
+    <string name="action_cancel">Annulez</string>
+    <string name="action_logout">Se déconnecter</string>
+    <string name="action_quit">Quitter</string>
+    <string name="action_send">Envoyer</string>
+    <string name="action_sign_in">Se connecter</string>
+    <string name="button_activity_draw">Dessiner</string>
+    <string name="error_field_invalid">Ce champ est invalide</string>
+    <string name="error_field_required">Ce champ est requis</string>
+    <string name="prompt_login">Identifiant</string>
+    <string name="prompt_new_account">Créer un nouveau compte ?</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="title_activity_draw">Déssiner des cercles !</string>
+    <string name="title_activity_login">iChat - Formulaire de connexion</string>
+    <string name="title_activity_message">iChat - Messagerie</string>
+    <string name="action_refresh">Rafraichir</string>
+    <string name="prompt_messages">Bienvenue dans le chat :</string>
+    <string name="prompt_new_message">Votre message içi...</string>
+    <string name="toast_login_failed">Connection échoué !</string>
+    <string name="toast_login_success">Connection validé !</string>
+    <string name="toast_message_failed">Un problème est apparu !</string>
+</resources>
